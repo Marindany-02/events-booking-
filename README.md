@@ -1,4 +1,4 @@
-e# events-booking-web based system with php
+## events-booking-web based system with php
 
 
 ### Summary of the Event Management System
